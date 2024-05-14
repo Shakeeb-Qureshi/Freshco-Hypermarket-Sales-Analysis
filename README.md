@@ -11,4 +11,4 @@ Freshco Hypermarket, located in HSR, Bangalore, has positioned itself as a promi
 -  **Freshco Hypermarket - Raw Data** - Excel File - Raw Data File of the Sales
 -  **Freshco Hypermarket - Data Analysis Workings** - Excel File - Complete Analysis of the Data set at Order Level, Completion Rate Level, Customer Level and Delivery Level
 -  **Freshco Hypermarket - Data Analysis Report** - PDF File - Complete analysis report including insights of the workings
--  **Freshco Hypermarket Sales** - PPT File - A Presentation on the analysis 
+-  **Freshco Hypermarket Sales** - PDF File - A Presentation on the complete analysis 
